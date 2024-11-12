@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: user
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -20,12 +20,21 @@ layout:
 
 # Perfil
 
-Mi perfil aquí
+## Habilidades
 
-### Habilidades
+Soy pianista clásico apasionado por la pedagogía musical, la interpretación de repertorio solista y colaborativo, la composición musical y la improvisación.
 
-Habilidad 1
+Me especializo en la enseñanza a personas con discapacidad visual. Como docente me enfoco en las necesidades y preferencias del estudiante, junto a un desarrollo integral de su musicalidad.
 
-Habilidad 2
+## Herramientas
 
-Habilidad 3
+* Edición de partituras digitales, creación de score.
+* Creación de partituras en Braille para personas con discapacidad visual.
+* Composición musical para medios visuales.
+* Edición de video básico.
+* Producción musical básica.
+
+## Idiomas
+
+<table data-header-hidden><thead><tr><th width="121"></th><th width="149"></th></tr></thead><tbody><tr><td>Español</td><td>Lengua Nativa</td></tr><tr><td>Inglés</td><td>B2</td></tr></tbody></table>
+
