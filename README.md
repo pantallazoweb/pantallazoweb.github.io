@@ -34,7 +34,7 @@ Me especializo en la enseñanza a personas con discapacidad visual. Como docente
 * Edición de video básico.
 * Producción musical básica.
 
-## Idiomas
+## Idiomas 
 
 <table data-header-hidden><thead><tr><th width="121"></th><th width="149"></th></tr></thead><tbody><tr><td>Español</td><td>Lengua Nativa</td></tr><tr><td>Inglés</td><td>B2</td></tr></tbody></table>
 
