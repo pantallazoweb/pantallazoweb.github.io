@@ -101,6 +101,15 @@ Orquesta Filarmónica de Cali
 Licenciatura en Artes Visuales, Univalle
 
 > Musicalización de cortometraje
+{% endstep %}
+
+{% step %}
+### Ensayo abierto Colectivo Momotus
+
+2023\
+Colectivo de Composición Musical "Momotus"
+
+> Ensayo abierto y muestra de obra inédita propia y de integrantes del colectivo
 
 
 {% endstep %}
