@@ -20,7 +20,7 @@ layout:
 
 # Perfil
 
-## Habilidades
+## Habilidades 
 
 Soy pianista clásico apasionado por la pedagogía musical, la interpretación de repertorio solista y colaborativo, la composición musical y la improvisación.
 
