@@ -1,6 +1,6 @@
 ---
 icon: user
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/piano.jpg
 coverY: 0
 layout:
   cover:
