@@ -29,7 +29,7 @@ Práctica docente
 ### Fundación Escuela de Artes Don Bosco
 
 Agosto de 2023 - Actualidad\
-Docente de Piano
+Docente de piano
 
 > Enseñanza grupal e individual
 >
