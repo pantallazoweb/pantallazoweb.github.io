@@ -8,7 +8,7 @@ icon: briefcase
 
 {% stepper %}
 {% step %}
-#### Universidad del Valle
+### Universidad del Valle
 
 2019\
 Monitoría
@@ -17,7 +17,7 @@ Monitoría
 {% endstep %}
 
 {% step %}
-#### Colegio Alemán de Cali
+### Colegio Alemán de Cali
 
 Agosto de 2022 - Agosto de 2023\
 Práctica docente
@@ -26,7 +26,7 @@ Práctica docente
 {% endstep %}
 
 {% step %}
-#### Fundación Escuela de Artes Don Bosco
+### Fundación Escuela de Artes Don Bosco
 
 Agosto de 2023 - Actualidad\
 Docente de Piano
@@ -41,7 +41,7 @@ Docente de Piano
 
 {% stepper %}
 {% step %}
-#### Discapacidad Visual
+### Discapacidad Visual
 
 2024\
 Trabajo de grado
@@ -54,7 +54,7 @@ Trabajo de grado
 
 {% stepper %}
 {% step %}
-#### Unicauca
+### Unicauca
 
 2018\
 Popayán y Cali\
@@ -66,7 +66,7 @@ IV Residencia Orquestal 'Un canto para la Paz y la reconciliación'
 {% endstep %}
 
 {% step %}
-#### Ensamble Coromático
+### Ensamble Coromático
 
 2022\
 Sala Beethoven, Concierto de Coros
@@ -75,7 +75,7 @@ Sala Beethoven, Concierto de Coros
 {% endstep %}
 
 {% step %}
-#### Exposición Colectiva: Bioartografías
+### Exposición Colectiva: Bioartografías
 
 2022\
 Licenciatura de Artes Visuales, Univalle
@@ -84,7 +84,7 @@ Licenciatura de Artes Visuales, Univalle
 {% endstep %}
 
 {% step %}
-#### Teatro Municipal Enrique Buenaventura
+### Teatro Municipal Enrique Buenaventura
 
 2022\
 Orquesta Filarmónica de Cali
@@ -95,7 +95,7 @@ Orquesta Filarmónica de Cali
 {% endstep %}
 
 {% step %}
-#### Corto animado "I like Armenia"
+### Corto animado "I like Armenia"
 
 2022\
 Licenciatura en Artes Visuales, Univalle
@@ -104,11 +104,13 @@ Licenciatura en Artes Visuales, Univalle
 {% endstep %}
 
 {% step %}
-#### Ensayo abierto Colectivo Momotus
+### Ensayo abierto Colectivo Momotus
 
 2023\
 Colectivo de Composición Musical "Momotus"
 
 > Ensayo abierto y muestra de obra inédita propia y de integrantes del colectivo
+
+
 {% endstep %}
 {% endstepper %}

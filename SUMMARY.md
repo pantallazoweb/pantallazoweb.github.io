@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Perfil](README.md)
-* [Formación académica](formacion.md)
 * [Experiencia](experiencia.md)
+* [Formación académica](formacion.md)
 * [Contacto](contacto.md)
