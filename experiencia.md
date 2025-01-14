@@ -19,21 +19,21 @@ Docente de piano
 {% endstep %}
 
 {% step %}
-### Universidad del Valle
-
-2019\
-Monitoría
-
-> Apoyo en la organización del Concurso para Piano Luis Carlos Figueroa
-{% endstep %}
-
-{% step %}
 ### Colegio Alemán de Cali
 
 Agosto de 2022 - Agosto de 2023\
 Práctica docente
 
 > Docente del Taller de Piano y Coro
+{% endstep %}
+
+{% step %}
+### Universidad del Valle
+
+2019\
+Monitoría
+
+> Apoyo en la organización del Concurso para Piano Luis Carlos Figueroa
 {% endstep %}
 {% endstepper %}
 
