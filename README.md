@@ -2,20 +2,6 @@
 icon: user
 cover: .gitbook/assets/piano.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Perfil
@@ -29,6 +15,7 @@ Me especializo en la enseñanza a personas con discapacidad visual. Como docente
 ## Herramientas
 
 * Edición de partituras digitales, creación de score.
+* Transcripción y arreglo musical.
 * Creación de partituras en Braille para personas con discapacidad visual.
 * Composición musical para medios visuales.
 * Edición de video básico.

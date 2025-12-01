@@ -8,18 +8,18 @@ icon: briefcase
 
 {% stepper %}
 {% step %}
-### Fundación Escuela de Artes Don Bosco
+#### Fundación Escuela de Artes Don Bosco
 
 Agosto de 2023 - Actualidad\
 Docente de piano
 
-> Enseñanza grupal e individual
+> Enseñanza grupal e individual a todas las edades
 >
-> Apoyo en la organización de presentaciones
+> Apoyo en la organización de muestras académicas
 {% endstep %}
 
 {% step %}
-### Colegio Alemán de Cali
+#### Colegio Alemán de Cali
 
 Agosto de 2022 - Agosto de 2023\
 Práctica docente
@@ -28,7 +28,16 @@ Práctica docente
 {% endstep %}
 
 {% step %}
-### Universidad del Valle
+### Clases privadas de piano
+
+2021 - Actualidad
+
+> Enseñanza de piano a todas las edades\
+> Preparación para exámenes de admisión universitario
+{% endstep %}
+
+{% step %}
+#### Universidad del Valle
 
 2019\
 Monitoría
@@ -41,7 +50,7 @@ Monitoría
 
 {% stepper %}
 {% step %}
-### Trabajo de grado
+#### Trabajo de grado
 
 2024\
 Investigación sobre formación musical en Institución de Educación Superior para personas con discapacidad visual
@@ -50,42 +59,39 @@ Investigación sobre formación musical en Institución de Educación Superior p
 {% endstep %}
 
 {% step %}
-### Ponencia Notas al Tacto
+#### Ponencia Notas al Tacto
 
 2023\
 Participación como ponente
 
 > Adelantos de trabajo de grado "Adaptación a Braille y Audiodescripción del libro Piano Complementario Nivel 1, editorial Univalle".
-
-
 {% endstep %}
 {% endstepper %}
 
-## Experiencia Musical
+## Experiencia Artística
 
 {% stepper %}
 {% step %}
-### Ensamble en residencia Colectivo Momotus
+#### Colectivo de Composición "Momotus"
+
+2025\
+Concierto de música nueva
+
+> Concierto de obra inédita propia "Piezas breves" y de los integrantes del colectivo
 
 2024\
-Colectivo de Composición Musical "Momotus"
+Ensamble en residencia Colectivo Momotus
 
-> Concierto de obra inédita propia y de integrantes del colectivo
-
-
-{% endstep %}
-
-{% step %}
-### Ensayo abierto Colectivo Momotus
+> Concierto de obra inédita propia "Vientos de Occidente" y de integrantes del colectivo
 
 2023\
-Colectivo de Composición Musical "Momotus"
+Ensayo abierto
 
-> Ensayo abierto y muestra de obra inédita propia y de integrantes del colectivo
+> Ensayo abierto y muestra de obra inédita "Eco de risas" propia y de integrantes del colectivo
 {% endstep %}
 
 {% step %}
-### Teatro Municipal Enrique Buenaventura
+#### Teatro Municipal Enrique Buenaventura
 
 2022\
 Orquesta Filarmónica de Cali
@@ -96,7 +102,7 @@ Orquesta Filarmónica de Cali
 {% endstep %}
 
 {% step %}
-### Corto animado "I like Armenia"
+#### Corto animado "I like Armenia"
 
 2022\
 Licenciatura en Artes Visuales, Univalle
@@ -105,7 +111,7 @@ Licenciatura en Artes Visuales, Univalle
 {% endstep %}
 
 {% step %}
-### Exposición Colectiva: Bioartografías
+#### Exposición Colectiva: Bioartografías
 
 2022\
 Licenciatura de Artes Visuales, Univalle
@@ -114,7 +120,7 @@ Licenciatura de Artes Visuales, Univalle
 {% endstep %}
 
 {% step %}
-### Ensamble Coromático
+#### Ensamble Coromático
 
 2022\
 Sala Beethoven, Concierto de Coros
@@ -123,7 +129,7 @@ Sala Beethoven, Concierto de Coros
 {% endstep %}
 
 {% step %}
-### Unicauca
+#### Unicauca
 
 2018\
 Popayán y Cali\
